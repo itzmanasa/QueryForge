@@ -1,4 +1,4 @@
-# QueryForge 🔍⚒️
+# QueryForge 
 
 ## Intelligent Search Engine with Autocomplete, Ranking & Fuzzy Matching
 
@@ -8,7 +8,7 @@ The project focuses heavily on efficient data structures, fast query retrieval, 
 
 ---
 
-# 🚀 Current Goals
+# Current Goals
 
 QueryForge is being developed in multiple stages:
 
@@ -22,7 +22,7 @@ QueryForge is being developed in multiple stages:
 
 ---
 
-# 🧠 Core Concepts & Data Structures
+# Core Concepts & Data Structures
 
 This project explores several important computer science concepts:
 
@@ -43,31 +43,31 @@ This project explores several important computer science concepts:
 
 ---
 
-# ⚙️ Planned Features
+#  Planned Features
 
-## 🔎 Search Engine Core
+## Search Engine Core
 - Fast keyword-based document retrieval
 - Efficient indexing system
 - Multi-document querying
 
-## ✨ Autocomplete Engine
+## Autocomplete Engine
 - Real-time word suggestions
 - Prefix-based retrieval using Trie
 - Frequency-ranked suggestions
 
-## 📊 Ranking Engine
+##  Ranking Engine
 - Relevance scoring
 - TF-IDF based ranking
 - Priority Queue based result ordering
 
-## 🛠️ Fuzzy Matching
+## Fuzzy Matching
 - Typo correction
 - Similar word detection
 - Edit distance based matching
 
 ---
 
-# 🏗️ Tech Stack
+# Tech Stack
 
 | Component | Technology |
 |---|---|
@@ -78,7 +78,7 @@ This project explores several important computer science concepts:
 
 ---
 
-# 📂 Planned Project Structure
+# Planned Project Structure
 
 ```text
 QueryForge/
@@ -93,7 +93,7 @@ QueryForge/
 
 ---
 
-# 🎯 Project Objective
+# Project Objective
 
 The goal of QueryForge is to build a scalable and optimized search system while deeply exploring real-world applications of Data Structures and Algorithms.
 
@@ -106,7 +106,7 @@ This project is intended to strengthen:
 
 ---
 
-# 📈 Future Expansion Ideas
+# Future Expansion Ideas
 
 - Boolean query support
 - Phrase searching
@@ -118,7 +118,7 @@ This project is intended to strengthen:
 
 ---
 
-# 📌 Status
+# Status
 
 Currently under active development.
 
